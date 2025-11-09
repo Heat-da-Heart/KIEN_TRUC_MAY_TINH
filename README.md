@@ -1,1 +1,1 @@
-# KIEN_TRUC_MAY_TINH
+# KIẾN TRÚC MÁY TÍNH
